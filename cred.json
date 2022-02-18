@@ -1,0 +1,1 @@
+[{"device":"windows","host":"172.16.8.113","port":"5985","user":"dhvani","password":"Mind@123", "scheduleTime":20000},{"device":"linux","host":"localhost","port":"22","user":"umang","password":"Mind@123","scheduleTime":40000}]
